@@ -1,0 +1,837 @@
+{
+  "vaultName": "notas",
+  "lastExport": 1709049738739,
+  "pluginVersion": "1.8.0",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "1708971268-matrices-y-sistemas-de-ecuaciones-lineales.md",
+    "1708971315-rango-de-una-matriz.md",
+    "1708971370-matriz-inversa.md",
+    "1708971486-matriz.md",
+    "1708971957-operaciones-con-matrices.md",
+    "1708972369-producto-de-matrices.md",
+    "1708972968-matriz-cuadrada.md",
+    "1708973072-matriz-identidad.md",
+    "1708973208-matriz-nula.md",
+    "1708973483-suma-de-matrices.md",
+    "1708973589-producto-de-matriz-por-un-escalar.md",
+    "1708973660-matriz-traspuesta.md",
+    "1708973876-traza-de-una-matriz-cuadrada.md",
+    "1708973986-matriz-diagonal.md",
+    "1708974120-tipos-de-matrices.md",
+    "1708974148-matriz-rectangular.md",
+    "1708974330-matriz-fila.md",
+    "1708974518-matriz-columna.md",
+    "1708974722-matriz-escalar.md",
+    "1708974898-matriz-triangular-superior.md",
+    "1708975022-matriz-triangular-inferior.md",
+    "1708975148-matriz-simtrica.md",
+    "1708975243-matriz-antisimtrica.md",
+    "1708975334-toda-matriz-se-puede-descomponer-como-suma-de-una-matriz-simtrica-y-otra-antisimtrica.md",
+    "1708975606-matriz-idempotente.md",
+    "1708975670-matriz-involutiva.md",
+    "1708975789-matriz-regular.md",
+    "1708976016-determinante.md",
+    "1708976130-matriz-nilpotente.md",
+    "1708976325-matriz-singular.md",
+    "1708976649-matriz-ortogonal.md",
+    "1708977581-matrices-equivalentes.md",
+    "1708977689-operaciones-elementales.md",
+    "1709019874-matriz-elemental.md",
+    "1709020490-matriz-escalonada.md",
+    "1709021303-mtodo-de-gauss.md",
+    "1709023381-matriz-rectangular-inversa.md",
+    "1709023672-matrices-congruentes.md",
+    "1709024289-matrices-semejantes.md",
+    "1709024526-sistema-de-ecuaciones-lineales.md",
+    "1709024687-resolucin-de-sistemas-de-ecuaciones-lineales.md",
+    "1709024741-mtodo-de-sustitucin.md",
+    "1709024893-mtodo-de-reduccin.md",
+    "1709025048-mtodo-de-igualacin.md",
+    "1709025451-expresin-matricial-de-un-sistema-de-ecuaciones.md",
+    "1709025851-clasificacin-de-los-sistemas-de-ecuaciones-lineales.md",
+    "1709026069-mtodo-de-gauss-jordan.md",
+    "1709026281-matriz-ampliada.md",
+    "1709028207-teorema-de-rouch-frbenius.md",
+    "1709028361-sistema-compatible.md",
+    "1709028422-sistema-compatible-determinado.md",
+    "1709028470-sistema-compatible-indeterminado.md",
+    "1709028539-sistema-incompatible.md",
+    "1709028932-sistema-de-cramer.md",
+    "1709029052-regla-de-cramer.md",
+    "1709035451-ejercicio-1-parcial-1-lgebra.md",
+    "1709037870-ejercicio-5-parcial-2-lgebra.md",
+    "1709039315-ejercicio-5-examen-parcial-lgebra.md",
+    "1709040880-ejercicio-6-examen-parcial-lgebra.md",
+    "assets/imgs/gauss-jordan.png",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "1708971268-matrices-y-sistemas-de-ecuaciones-lineales.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 1009,
+      "exportedPath": "1708971268-matrices-y-sistemas-de-ecuaciones-lineales.html",
+      "dependencies": []
+    },
+    "1708971315-rango-de-una-matriz.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 1699,
+      "exportedPath": "1708971315-rango-de-una-matriz.html",
+      "dependencies": []
+    },
+    "1708971370-matriz-inversa.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 768,
+      "exportedPath": "1708971370-matriz-inversa.html",
+      "dependencies": []
+    },
+    "1708971486-matriz.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 664,
+      "exportedPath": "1708971486-matriz.html",
+      "dependencies": []
+    },
+    "1708971957-operaciones-con-matrices.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 426,
+      "exportedPath": "1708971957-operaciones-con-matrices.html",
+      "dependencies": []
+    },
+    "1708972369-producto-de-matrices.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 1043,
+      "exportedPath": "1708972369-producto-de-matrices.html",
+      "dependencies": []
+    },
+    "1708972968-matriz-cuadrada.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 510,
+      "exportedPath": "1708972968-matriz-cuadrada.html",
+      "dependencies": []
+    },
+    "1708973072-matriz-identidad.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 583,
+      "exportedPath": "1708973072-matriz-identidad.html",
+      "dependencies": []
+    },
+    "1708973208-matriz-nula.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 407,
+      "exportedPath": "1708973208-matriz-nula.html",
+      "dependencies": []
+    },
+    "1708973483-suma-de-matrices.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 415,
+      "exportedPath": "1708973483-suma-de-matrices.html",
+      "dependencies": []
+    },
+    "1708973589-producto-de-matriz-por-un-escalar.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 501,
+      "exportedPath": "1708973589-producto-de-matriz-por-un-escalar.html",
+      "dependencies": []
+    },
+    "1708973660-matriz-traspuesta.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 402,
+      "exportedPath": "1708973660-matriz-traspuesta.html",
+      "dependencies": []
+    },
+    "1708973876-traza-de-una-matriz-cuadrada.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 357,
+      "exportedPath": "1708973876-traza-de-una-matriz-cuadrada.html",
+      "dependencies": []
+    },
+    "1708973986-matriz-diagonal.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 409,
+      "exportedPath": "1708973986-matriz-diagonal.html",
+      "dependencies": []
+    },
+    "1708974120-tipos-de-matrices.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 1176,
+      "exportedPath": "1708974120-tipos-de-matrices.html",
+      "dependencies": []
+    },
+    "1708974148-matriz-rectangular.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 407,
+      "exportedPath": "1708974148-matriz-rectangular.html",
+      "dependencies": []
+    },
+    "1708974330-matriz-fila.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 246,
+      "exportedPath": "1708974330-matriz-fila.html",
+      "dependencies": []
+    },
+    "1708974518-matriz-columna.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 261,
+      "exportedPath": "1708974518-matriz-columna.html",
+      "dependencies": []
+    },
+    "1708974722-matriz-escalar.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 424,
+      "exportedPath": "1708974722-matriz-escalar.html",
+      "dependencies": []
+    },
+    "1708974898-matriz-triangular-superior.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 562,
+      "exportedPath": "1708974898-matriz-triangular-superior.html",
+      "dependencies": []
+    },
+    "1708975022-matriz-triangular-inferior.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 571,
+      "exportedPath": "1708975022-matriz-triangular-inferior.html",
+      "dependencies": []
+    },
+    "1708975148-matriz-simtrica.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 295,
+      "exportedPath": "1708975148-matriz-simtrica.html",
+      "dependencies": []
+    },
+    "1708975243-matriz-antisimtrica.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 312,
+      "exportedPath": "1708975243-matriz-antisimtrica.html",
+      "dependencies": []
+    },
+    "1708975334-toda-matriz-se-puede-descomponer-como-suma-de-una-matriz-simtrica-y-otra-antisimtrica.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 712,
+      "exportedPath": "1708975334-toda-matriz-se-puede-descomponer-como-suma-de-una-matriz-simtrica-y-otra-antisimtrica.html",
+      "dependencies": []
+    },
+    "1708975606-matriz-idempotente.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 256,
+      "exportedPath": "1708975606-matriz-idempotente.html",
+      "dependencies": []
+    },
+    "1708975670-matriz-involutiva.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 274,
+      "exportedPath": "1708975670-matriz-involutiva.html",
+      "dependencies": []
+    },
+    "1708975789-matriz-regular.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 512,
+      "exportedPath": "1708975789-matriz-regular.html",
+      "dependencies": []
+    },
+    "1708976016-determinante.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 206,
+      "exportedPath": "1708976016-determinante.html",
+      "dependencies": []
+    },
+    "1708976130-matriz-nilpotente.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 235,
+      "exportedPath": "1708976130-matriz-nilpotente.html",
+      "dependencies": []
+    },
+    "1708976325-matriz-singular.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 474,
+      "exportedPath": "1708976325-matriz-singular.html",
+      "dependencies": []
+    },
+    "1708976649-matriz-ortogonal.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 571,
+      "exportedPath": "1708976649-matriz-ortogonal.html",
+      "dependencies": []
+    },
+    "1708977581-matrices-equivalentes.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 607,
+      "exportedPath": "1708977581-matrices-equivalentes.html",
+      "dependencies": []
+    },
+    "1708977689-operaciones-elementales.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 492,
+      "exportedPath": "1708977689-operaciones-elementales.html",
+      "dependencies": []
+    },
+    "1709019874-matriz-elemental.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 440,
+      "exportedPath": "1709019874-matriz-elemental.html",
+      "dependencies": []
+    },
+    "1709020490-matriz-escalonada.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 426,
+      "exportedPath": "1709020490-matriz-escalonada.html",
+      "dependencies": []
+    },
+    "1709021303-mtodo-de-gauss.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 2473,
+      "exportedPath": "1709021303-mtodo-de-gauss.html",
+      "dependencies": []
+    },
+    "1709023381-matriz-rectangular-inversa.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 770,
+      "exportedPath": "1709023381-matriz-rectangular-inversa.html",
+      "dependencies": []
+    },
+    "1709023672-matrices-congruentes.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 789,
+      "exportedPath": "1709023672-matrices-congruentes.html",
+      "dependencies": []
+    },
+    "1709024289-matrices-semejantes.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 776,
+      "exportedPath": "1709024289-matrices-semejantes.html",
+      "dependencies": []
+    },
+    "1709024526-sistema-de-ecuaciones-lineales.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 551,
+      "exportedPath": "1709024526-sistema-de-ecuaciones-lineales.html",
+      "dependencies": []
+    },
+    "1709024687-resolucin-de-sistemas-de-ecuaciones-lineales.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 675,
+      "exportedPath": "1709024687-resolucin-de-sistemas-de-ecuaciones-lineales.html",
+      "dependencies": []
+    },
+    "1709024741-mtodo-de-sustitucin.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 670,
+      "exportedPath": "1709024741-mtodo-de-sustitucin.html",
+      "dependencies": []
+    },
+    "1709024893-mtodo-de-reduccin.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 978,
+      "exportedPath": "1709024893-mtodo-de-reduccin.html",
+      "dependencies": []
+    },
+    "1709025048-mtodo-de-igualacin.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 810,
+      "exportedPath": "1709025048-mtodo-de-igualacin.html",
+      "dependencies": []
+    },
+    "1709025451-expresin-matricial-de-un-sistema-de-ecuaciones.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 1032,
+      "exportedPath": "1709025451-expresin-matricial-de-un-sistema-de-ecuaciones.html",
+      "dependencies": []
+    },
+    "1709025851-clasificacin-de-los-sistemas-de-ecuaciones-lineales.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 653,
+      "exportedPath": "1709025851-clasificacin-de-los-sistemas-de-ecuaciones-lineales.html",
+      "dependencies": []
+    },
+    "1709026069-mtodo-de-gauss-jordan.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 1697,
+      "exportedPath": "1709026069-mtodo-de-gauss-jordan.html",
+      "dependencies": []
+    },
+    "1709026281-matriz-ampliada.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 628,
+      "exportedPath": "1709026281-matriz-ampliada.html",
+      "dependencies": []
+    },
+    "1709028207-teorema-de-rouch-frbenius.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 889,
+      "exportedPath": "1709028207-teorema-de-rouch-frbenius.html",
+      "dependencies": [
+        "assets/imgs/gauss-jordan.png",
+        "assets/imgs/gauss-jordan.png"
+      ]
+    },
+    "1709028361-sistema-compatible.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 234,
+      "exportedPath": "1709028361-sistema-compatible.html",
+      "dependencies": []
+    },
+    "1709028422-sistema-compatible-determinado.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 289,
+      "exportedPath": "1709028422-sistema-compatible-determinado.html",
+      "dependencies": []
+    },
+    "1709028470-sistema-compatible-indeterminado.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 301,
+      "exportedPath": "1709028470-sistema-compatible-indeterminado.html",
+      "dependencies": []
+    },
+    "1709028539-sistema-incompatible.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 241,
+      "exportedPath": "1709028539-sistema-incompatible.html",
+      "dependencies": []
+    },
+    "1709028932-sistema-de-cramer.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 426,
+      "exportedPath": "1709028932-sistema-de-cramer.html",
+      "dependencies": []
+    },
+    "1709029052-regla-de-cramer.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 409,
+      "exportedPath": "1709029052-regla-de-cramer.html",
+      "dependencies": []
+    },
+    "1709035451-ejercicio-1-parcial-1-lgebra.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 3114,
+      "exportedPath": "1709035451-ejercicio-1-parcial-1-lgebra.html",
+      "dependencies": []
+    },
+    "1709037870-ejercicio-5-parcial-2-lgebra.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 2459,
+      "exportedPath": "1709037870-ejercicio-5-parcial-2-lgebra.html",
+      "dependencies": []
+    },
+    "1709039315-ejercicio-5-examen-parcial-lgebra.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 2340,
+      "exportedPath": "1709039315-ejercicio-5-examen-parcial-lgebra.html",
+      "dependencies": []
+    },
+    "1709040880-ejercicio-6-examen-parcial-lgebra.md": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 911,
+      "exportedPath": "1709040880-ejercicio-6-examen-parcial-lgebra.html",
+      "dependencies": []
+    },
+    "assets/imgs/gauss-jordan.png": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 313241,
+      "exportedPath": "assets/imgs/gauss-jordan.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 21835,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 6954,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 37375,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 455,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1709049738739,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
