@@ -1,6 +1,6 @@
 {
   "vaultName": "notas",
-  "lastExport": 1709053022308,
+  "lastExport": 1710319837232,
   "pluginVersion": "1.8.0",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
@@ -65,7 +65,60 @@
     "1709037870-ejercicio-5-parcial-2-lgebra.md",
     "1709039315-ejercicio-5-examen-parcial-lgebra.md",
     "1709040880-ejercicio-6-examen-parcial-lgebra.md",
+    "1709799516-lgerba-lineal-y-geometra-en-r.md",
+    "1709799641-vector-fijo.md",
+    "1709799713-mdulo-de-un-vector.md",
+    "1709799858-direccin-de-un-vector.md",
+    "1709799958-sentido-de-un-vector.md",
+    "1709799991-vectores-equipolentes.md",
+    "1709800102-vector-libre.md",
+    "1709800386-vectores-linealmente-independientes.md",
+    "1709801268-vectores-linealmente-dependientes.md",
+    "1709801391-combinacin-lineal-de-vectores.md",
+    "1709801827-producto-escalar-de-dos-vectores.md",
+    "1709802244-ngulo-de-dos-vectores.md",
+    "1709814736-norma-de-un-vector.md",
+    "1709815455-vector-unitario.md",
+    "1709815513-proyeccin-de-un-vector-sobre-otro.md",
+    "1709826155-ejercicio-1-tema-2-lgebra.md",
+    "1709828386-producto-vectorial.md",
+    "1710065520-producto-mixto.md",
+    "1710065932-ejercicio-2-tema-2-lgebra.md",
+    "1710070277-baricentro.md",
+    "1710070405-espacio-afn.md",
+    "1710070725-rectas-en-r.md",
+    "1710070957-planos-en-r.md",
+    "1710071645-ngulos-paralelismo-y-perpendicularidad.md",
+    "1710072090-posiciones-relativas-en-r.md",
+    "1710092108-posicin-relativa-de-dos-rectas.md",
+    "1710092173-posicin-relativa-de-una-recta-y-un-plano.md",
+    "1710092859-posicin-relativa-de-dos-planos.md",
+    "1710093096-posicin-relativa-de-tres-planos.md",
+    "1710093217-distancias-en-r.md",
+    "1710093229-distancia-entre-dos-puntos.md",
+    "1710093336-distancia-entre-un-punto-y-una-recta.md",
+    "1710093492-distancia-entre-un-punto-y-un-plano.md",
+    "1710093688-distancia-entre-una-recta-y-un-plano.md",
+    "1710093852-distancia-entre-dos-planos.md",
+    "1710093933-distancia-entre-dos-rectas.md",
+    "1710094150-ejercicio-3-tema-2-lgebra.md",
+    "1710094667-ejercicio-2-segundo-parcial-examen-final-lgebra.md",
+    "1710094947-ecuacin-vectorial-de-la-recta.md",
+    "1710095070-ecuaciones-paramtricas-de-la-recta.md",
+    "1710095210-ecuacin-continua-de-la-recta.md",
+    "1710095265-recta-como-interseccin-de-planos.md",
+    "1710174249-ejercicio-3-primer-parcial-examen-final-lgebra.md",
+    "1710174452-ejercicio-4-primer-parcial-examen-final-lgebra.md",
+    "1710273221-ejercicio-2-examen-parcial-lgebra.md",
+    "1710275962-ejercicio-4-examen-parcial-lgebra.md",
     "assets/imgs/gauss-jordan.png",
+    "ej2-tema-2-álgebra.png",
+    "ej2-tema-2-álgebra-2.png",
+    "ej2-examen-final-parcial-2.png",
+    "ej4-primer-parcial-álgebra.png",
+    "ej3-parcial-álgebra.png",
+    "ej2-2-parcial-álgebra.png",
+    "ej4-parcial-álgebra.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -171,295 +224,295 @@
   ],
   "fileInfo": {
     "1708971268-matrices-y-sistemas-de-ecuaciones-lineales.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 1071,
       "exportedPath": "1708971268-matrices-y-sistemas-de-ecuaciones-lineales.html",
       "dependencies": []
     },
     "1708971315-rango-de-una-matriz.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 1698,
       "exportedPath": "1708971315-rango-de-una-matriz.html",
       "dependencies": []
     },
     "1708971370-matriz-inversa.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 768,
       "exportedPath": "1708971370-matriz-inversa.html",
       "dependencies": []
     },
     "1708971486-matriz.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 664,
       "exportedPath": "1708971486-matriz.html",
       "dependencies": []
     },
     "1708971957-operaciones-con-matrices.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 426,
       "exportedPath": "1708971957-operaciones-con-matrices.html",
       "dependencies": []
     },
     "1708972369-producto-de-matrices.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 1043,
       "exportedPath": "1708972369-producto-de-matrices.html",
       "dependencies": []
     },
     "1708972968-matriz-cuadrada.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 510,
       "exportedPath": "1708972968-matriz-cuadrada.html",
       "dependencies": []
     },
     "1708973072-matriz-identidad.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 583,
       "exportedPath": "1708973072-matriz-identidad.html",
       "dependencies": []
     },
     "1708973208-matriz-nula.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 407,
       "exportedPath": "1708973208-matriz-nula.html",
       "dependencies": []
     },
     "1708973483-suma-de-matrices.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 415,
       "exportedPath": "1708973483-suma-de-matrices.html",
       "dependencies": []
     },
     "1708973589-producto-de-matriz-por-un-escalar.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 501,
       "exportedPath": "1708973589-producto-de-matriz-por-un-escalar.html",
       "dependencies": []
     },
     "1708973660-matriz-traspuesta.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 402,
       "exportedPath": "1708973660-matriz-traspuesta.html",
       "dependencies": []
     },
     "1708973876-traza-de-una-matriz-cuadrada.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 357,
       "exportedPath": "1708973876-traza-de-una-matriz-cuadrada.html",
       "dependencies": []
     },
     "1708973986-matriz-diagonal.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 409,
       "exportedPath": "1708973986-matriz-diagonal.html",
       "dependencies": []
     },
     "1708974120-tipos-de-matrices.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 1176,
       "exportedPath": "1708974120-tipos-de-matrices.html",
       "dependencies": []
     },
     "1708974148-matriz-rectangular.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 407,
       "exportedPath": "1708974148-matriz-rectangular.html",
       "dependencies": []
     },
     "1708974330-matriz-fila.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 246,
       "exportedPath": "1708974330-matriz-fila.html",
       "dependencies": []
     },
     "1708974518-matriz-columna.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 261,
       "exportedPath": "1708974518-matriz-columna.html",
       "dependencies": []
     },
     "1708974722-matriz-escalar.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 424,
       "exportedPath": "1708974722-matriz-escalar.html",
       "dependencies": []
     },
     "1708974898-matriz-triangular-superior.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 562,
       "exportedPath": "1708974898-matriz-triangular-superior.html",
       "dependencies": []
     },
     "1708975022-matriz-triangular-inferior.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 571,
       "exportedPath": "1708975022-matriz-triangular-inferior.html",
       "dependencies": []
     },
     "1708975148-matriz-simtrica.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 295,
       "exportedPath": "1708975148-matriz-simtrica.html",
       "dependencies": []
     },
     "1708975243-matriz-antisimtrica.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 312,
       "exportedPath": "1708975243-matriz-antisimtrica.html",
       "dependencies": []
     },
     "1708975334-toda-matriz-se-puede-descomponer-como-suma-de-una-matriz-simtrica-y-otra-antisimtrica.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 712,
       "exportedPath": "1708975334-toda-matriz-se-puede-descomponer-como-suma-de-una-matriz-simtrica-y-otra-antisimtrica.html",
       "dependencies": []
     },
     "1708975606-matriz-idempotente.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 256,
       "exportedPath": "1708975606-matriz-idempotente.html",
       "dependencies": []
     },
     "1708975670-matriz-involutiva.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 274,
       "exportedPath": "1708975670-matriz-involutiva.html",
       "dependencies": []
     },
     "1708975789-matriz-regular.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 512,
       "exportedPath": "1708975789-matriz-regular.html",
       "dependencies": []
     },
     "1708976016-determinante.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 206,
       "exportedPath": "1708976016-determinante.html",
       "dependencies": []
     },
     "1708976130-matriz-nilpotente.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 235,
       "exportedPath": "1708976130-matriz-nilpotente.html",
       "dependencies": []
     },
     "1708976325-matriz-singular.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 474,
       "exportedPath": "1708976325-matriz-singular.html",
       "dependencies": []
     },
     "1708976649-matriz-ortogonal.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 571,
       "exportedPath": "1708976649-matriz-ortogonal.html",
       "dependencies": []
     },
     "1708977581-matrices-equivalentes.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 607,
       "exportedPath": "1708977581-matrices-equivalentes.html",
       "dependencies": []
     },
     "1708977689-operaciones-elementales.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 492,
       "exportedPath": "1708977689-operaciones-elementales.html",
       "dependencies": []
     },
     "1709019874-matriz-elemental.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 440,
       "exportedPath": "1709019874-matriz-elemental.html",
       "dependencies": []
     },
     "1709020490-matriz-escalonada.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 426,
       "exportedPath": "1709020490-matriz-escalonada.html",
       "dependencies": []
     },
     "1709021303-mtodo-de-gauss.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 2473,
       "exportedPath": "1709021303-mtodo-de-gauss.html",
       "dependencies": []
     },
     "1709023381-matriz-rectangular-inversa.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 770,
       "exportedPath": "1709023381-matriz-rectangular-inversa.html",
       "dependencies": []
     },
     "1709023672-matrices-congruentes.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 789,
       "exportedPath": "1709023672-matrices-congruentes.html",
       "dependencies": []
     },
     "1709024289-matrices-semejantes.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 776,
       "exportedPath": "1709024289-matrices-semejantes.html",
       "dependencies": []
     },
     "1709024526-sistema-de-ecuaciones-lineales.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 551,
       "exportedPath": "1709024526-sistema-de-ecuaciones-lineales.html",
       "dependencies": []
     },
     "1709024687-resolucin-de-sistemas-de-ecuaciones-lineales.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 675,
       "exportedPath": "1709024687-resolucin-de-sistemas-de-ecuaciones-lineales.html",
       "dependencies": []
     },
     "1709024741-mtodo-de-sustitucin.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 670,
       "exportedPath": "1709024741-mtodo-de-sustitucin.html",
       "dependencies": []
     },
     "1709024893-mtodo-de-reduccin.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 978,
       "exportedPath": "1709024893-mtodo-de-reduccin.html",
       "dependencies": []
     },
     "1709025048-mtodo-de-igualacin.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 810,
       "exportedPath": "1709025048-mtodo-de-igualacin.html",
       "dependencies": []
     },
     "1709025451-expresin-matricial-de-un-sistema-de-ecuaciones.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 1032,
       "exportedPath": "1709025451-expresin-matricial-de-un-sistema-de-ecuaciones.html",
       "dependencies": []
     },
     "1709025851-clasificacin-de-los-sistemas-de-ecuaciones-lineales.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 653,
       "exportedPath": "1709025851-clasificacin-de-los-sistemas-de-ecuaciones-lineales.html",
       "dependencies": []
     },
     "1709026069-mtodo-de-gauss-jordan.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 1697,
       "exportedPath": "1709026069-mtodo-de-gauss-jordan.html",
       "dependencies": []
     },
     "1709026281-matriz-ampliada.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 628,
       "exportedPath": "1709026281-matriz-ampliada.html",
       "dependencies": []
     },
     "1709028207-teorema-de-rouch-frbenius.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 889,
       "exportedPath": "1709028207-teorema-de-rouch-frbenius.html",
       "dependencies": [
@@ -468,369 +521,699 @@
       ]
     },
     "1709028361-sistema-compatible.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 234,
       "exportedPath": "1709028361-sistema-compatible.html",
       "dependencies": []
     },
     "1709028422-sistema-compatible-determinado.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 289,
       "exportedPath": "1709028422-sistema-compatible-determinado.html",
       "dependencies": []
     },
     "1709028470-sistema-compatible-indeterminado.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 301,
       "exportedPath": "1709028470-sistema-compatible-indeterminado.html",
       "dependencies": []
     },
     "1709028539-sistema-incompatible.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 241,
       "exportedPath": "1709028539-sistema-incompatible.html",
       "dependencies": []
     },
     "1709028932-sistema-de-cramer.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 426,
       "exportedPath": "1709028932-sistema-de-cramer.html",
       "dependencies": []
     },
     "1709029052-regla-de-cramer.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 409,
       "exportedPath": "1709029052-regla-de-cramer.html",
       "dependencies": []
     },
     "1709035451-ejercicio-1-parcial-1-lgebra.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 3114,
       "exportedPath": "1709035451-ejercicio-1-parcial-1-lgebra.html",
       "dependencies": []
     },
     "1709037870-ejercicio-5-parcial-2-lgebra.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 2459,
       "exportedPath": "1709037870-ejercicio-5-parcial-2-lgebra.html",
       "dependencies": []
     },
     "1709039315-ejercicio-5-examen-parcial-lgebra.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 2340,
       "exportedPath": "1709039315-ejercicio-5-examen-parcial-lgebra.html",
       "dependencies": []
     },
     "1709040880-ejercicio-6-examen-parcial-lgebra.md": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 2061,
       "exportedPath": "1709040880-ejercicio-6-examen-parcial-lgebra.html",
       "dependencies": []
     },
     "assets/imgs/gauss-jordan.png": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 313241,
       "exportedPath": "assets/imgs/gauss-jordan.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1709053022308,
-      "sourceSize": 21835,
+      "modifiedTime": 1710319837232,
+      "sourceSize": 38719,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1709053022308,
-      "sourceSize": 6960,
+      "modifiedTime": 1710319837232,
+      "sourceSize": 12452,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 37375,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 455,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1709053022308,
+      "modifiedTime": 1710319837232,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "1709799516-lgerba-lineal-y-geometra-en-r.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 1064,
+      "exportedPath": "1709799516-lgerba-lineal-y-geometra-en-r.html",
+      "dependencies": []
+    },
+    "1709799641-vector-fijo.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 374,
+      "exportedPath": "1709799641-vector-fijo.html",
+      "dependencies": []
+    },
+    "1709799713-mdulo-de-un-vector.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 376,
+      "exportedPath": "1709799713-mdulo-de-un-vector.html",
+      "dependencies": []
+    },
+    "1709799858-direccin-de-un-vector.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 206,
+      "exportedPath": "1709799858-direccin-de-un-vector.html",
+      "dependencies": []
+    },
+    "1709799958-sentido-de-un-vector.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 278,
+      "exportedPath": "1709799958-sentido-de-un-vector.html",
+      "dependencies": []
+    },
+    "1709799991-vectores-equipolentes.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 375,
+      "exportedPath": "1709799991-vectores-equipolentes.html",
+      "dependencies": []
+    },
+    "1709800102-vector-libre.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 343,
+      "exportedPath": "1709800102-vector-libre.html",
+      "dependencies": []
+    },
+    "1709800386-vectores-linealmente-independientes.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 957,
+      "exportedPath": "1709800386-vectores-linealmente-independientes.html",
+      "dependencies": []
+    },
+    "1709801268-vectores-linealmente-dependientes.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 894,
+      "exportedPath": "1709801268-vectores-linealmente-dependientes.html",
+      "dependencies": []
+    },
+    "1709801391-combinacin-lineal-de-vectores.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 391,
+      "exportedPath": "1709801391-combinacin-lineal-de-vectores.html",
+      "dependencies": []
+    },
+    "1709801827-producto-escalar-de-dos-vectores.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 892,
+      "exportedPath": "1709801827-producto-escalar-de-dos-vectores.html",
+      "dependencies": []
+    },
+    "1709802244-ngulo-de-dos-vectores.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 572,
+      "exportedPath": "1709802244-ngulo-de-dos-vectores.html",
+      "dependencies": []
+    },
+    "1709814736-norma-de-un-vector.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 646,
+      "exportedPath": "1709814736-norma-de-un-vector.html",
+      "dependencies": []
+    },
+    "1709815455-vector-unitario.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 279,
+      "exportedPath": "1709815455-vector-unitario.html",
+      "dependencies": []
+    },
+    "1709815513-proyeccin-de-un-vector-sobre-otro.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 1355,
+      "exportedPath": "1709815513-proyeccin-de-un-vector-sobre-otro.html",
+      "dependencies": []
+    },
+    "1709826155-ejercicio-1-tema-2-lgebra.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 1100,
+      "exportedPath": "1709826155-ejercicio-1-tema-2-lgebra.html",
+      "dependencies": []
+    },
+    "1709828386-producto-vectorial.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 1697,
+      "exportedPath": "1709828386-producto-vectorial.html",
+      "dependencies": []
+    },
+    "1710065520-producto-mixto.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 646,
+      "exportedPath": "1710065520-producto-mixto.html",
+      "dependencies": []
+    },
+    "1710065932-ejercicio-2-tema-2-lgebra.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 921,
+      "exportedPath": "1710065932-ejercicio-2-tema-2-lgebra.html",
+      "dependencies": [
+        "ej2-tema-2-álgebra.png",
+        "ej2-tema-2-álgebra-2.png"
+      ]
+    },
+    "1710070277-baricentro.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 557,
+      "exportedPath": "1710070277-baricentro.html",
+      "dependencies": []
+    },
+    "1710070405-espacio-afn.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 695,
+      "exportedPath": "1710070405-espacio-afn.html",
+      "dependencies": []
+    },
+    "1710070725-rectas-en-r.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 632,
+      "exportedPath": "1710070725-rectas-en-r.html",
+      "dependencies": []
+    },
+    "1710070957-planos-en-r.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 1411,
+      "exportedPath": "1710070957-planos-en-r.html",
+      "dependencies": []
+    },
+    "1710071645-ngulos-paralelismo-y-perpendicularidad.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 1789,
+      "exportedPath": "1710071645-ngulos-paralelismo-y-perpendicularidad.html",
+      "dependencies": []
+    },
+    "1710072090-posiciones-relativas-en-r.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 490,
+      "exportedPath": "1710072090-posiciones-relativas-en-r.html",
+      "dependencies": []
+    },
+    "1710092108-posicin-relativa-de-dos-rectas.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 933,
+      "exportedPath": "1710092108-posicin-relativa-de-dos-rectas.html",
+      "dependencies": []
+    },
+    "1710092173-posicin-relativa-de-una-recta-y-un-plano.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 837,
+      "exportedPath": "1710092173-posicin-relativa-de-una-recta-y-un-plano.html",
+      "dependencies": []
+    },
+    "1710092859-posicin-relativa-de-dos-planos.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 742,
+      "exportedPath": "1710092859-posicin-relativa-de-dos-planos.html",
+      "dependencies": []
+    },
+    "1710093096-posicin-relativa-de-tres-planos.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 1173,
+      "exportedPath": "1710093096-posicin-relativa-de-tres-planos.html",
+      "dependencies": []
+    },
+    "1710093217-distancias-en-r.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 595,
+      "exportedPath": "1710093217-distancias-en-r.html",
+      "dependencies": []
+    },
+    "1710093229-distancia-entre-dos-puntos.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 388,
+      "exportedPath": "1710093229-distancia-entre-dos-puntos.html",
+      "dependencies": []
+    },
+    "1710093336-distancia-entre-un-punto-y-una-recta.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 597,
+      "exportedPath": "1710093336-distancia-entre-un-punto-y-una-recta.html",
+      "dependencies": []
+    },
+    "1710093492-distancia-entre-un-punto-y-un-plano.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 571,
+      "exportedPath": "1710093492-distancia-entre-un-punto-y-un-plano.html",
+      "dependencies": []
+    },
+    "1710093688-distancia-entre-una-recta-y-un-plano.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 522,
+      "exportedPath": "1710093688-distancia-entre-una-recta-y-un-plano.html",
+      "dependencies": []
+    },
+    "1710093852-distancia-entre-dos-planos.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 419,
+      "exportedPath": "1710093852-distancia-entre-dos-planos.html",
+      "dependencies": []
+    },
+    "1710093933-distancia-entre-dos-rectas.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 587,
+      "exportedPath": "1710093933-distancia-entre-dos-rectas.html",
+      "dependencies": []
+    },
+    "1710094150-ejercicio-3-tema-2-lgebra.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 281,
+      "exportedPath": "1710094150-ejercicio-3-tema-2-lgebra.html",
+      "dependencies": []
+    },
+    "1710094667-ejercicio-2-segundo-parcial-examen-final-lgebra.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 4933,
+      "exportedPath": "1710094667-ejercicio-2-segundo-parcial-examen-final-lgebra.html",
+      "dependencies": [
+        "ej2-examen-final-parcial-2.png"
+      ]
+    },
+    "1710094947-ecuacin-vectorial-de-la-recta.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 392,
+      "exportedPath": "1710094947-ecuacin-vectorial-de-la-recta.html",
+      "dependencies": []
+    },
+    "1710095070-ecuaciones-paramtricas-de-la-recta.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 474,
+      "exportedPath": "1710095070-ecuaciones-paramtricas-de-la-recta.html",
+      "dependencies": []
+    },
+    "1710095210-ecuacin-continua-de-la-recta.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 348,
+      "exportedPath": "1710095210-ecuacin-continua-de-la-recta.html",
+      "dependencies": []
+    },
+    "1710095265-recta-como-interseccin-de-planos.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 397,
+      "exportedPath": "1710095265-recta-como-interseccin-de-planos.html",
+      "dependencies": []
+    },
+    "1710174249-ejercicio-3-primer-parcial-examen-final-lgebra.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 342,
+      "exportedPath": "1710174249-ejercicio-3-primer-parcial-examen-final-lgebra.html",
+      "dependencies": []
+    },
+    "1710174452-ejercicio-4-primer-parcial-examen-final-lgebra.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 2926,
+      "exportedPath": "1710174452-ejercicio-4-primer-parcial-examen-final-lgebra.html",
+      "dependencies": [
+        "ej4-primer-parcial-álgebra.png"
+      ]
+    },
+    "1710273221-ejercicio-2-examen-parcial-lgebra.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 3259,
+      "exportedPath": "1710273221-ejercicio-2-examen-parcial-lgebra.html",
+      "dependencies": [
+        "ej3-parcial-álgebra.png",
+        "ej2-2-parcial-álgebra.png"
+      ]
+    },
+    "1710275962-ejercicio-4-examen-parcial-lgebra.md": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 1871,
+      "exportedPath": "1710275962-ejercicio-4-examen-parcial-lgebra.html",
+      "dependencies": [
+        "ej4-parcial-álgebra.png"
+      ]
+    },
+    "ej2-tema-2-álgebra.png": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 75731,
+      "exportedPath": "ej2-tema-2-álgebra.png",
+      "dependencies": []
+    },
+    "ej2-tema-2-álgebra-2.png": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 117151,
+      "exportedPath": "ej2-tema-2-álgebra-2.png",
+      "dependencies": []
+    },
+    "ej2-examen-final-parcial-2.png": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 67303,
+      "exportedPath": "ej2-examen-final-parcial-2.png",
+      "dependencies": []
+    },
+    "ej4-primer-parcial-álgebra.png": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 80048,
+      "exportedPath": "ej4-primer-parcial-álgebra.png",
+      "dependencies": []
+    },
+    "ej3-parcial-álgebra.png": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 125403,
+      "exportedPath": "ej3-parcial-álgebra.png",
+      "dependencies": []
+    },
+    "ej2-2-parcial-álgebra.png": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 108675,
+      "exportedPath": "ej2-2-parcial-álgebra.png",
+      "dependencies": []
+    },
+    "ej4-parcial-álgebra.png": {
+      "modifiedTime": 1710319837232,
+      "sourceSize": 84849,
+      "exportedPath": "ej4-parcial-álgebra.png",
       "dependencies": []
     }
   }
